@@ -1,0 +1,30 @@
+div {
+    border: 1px solid green
+    
+}
+.биринши {
+    color: red;
+}
+.екинши {
+    color: darkgreen;
+}
+.ушинши {
+    color: red;
+}
+.тортинши {
+    color: blue;
+}
+.бесинши {
+     color: red;
+}
+.алтыншы {
+    border: 1px solid red;
+}
+.жетинши {
+    color: darkgreen;
+    height: 50px;
+    width: 220px;
+    border: 2px solid darkgreen; border-radius: 10px;
+
+
+}
